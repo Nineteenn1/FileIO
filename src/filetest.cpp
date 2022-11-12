@@ -7,7 +7,7 @@ int main()
 
     luaScript.open("../scripts/script.lua");
 
-    luaScript << "#Template lua script\n"
+    luaScript << "--Template lua script\n"
     "\n"
     "print \"Hello World!\"";
 

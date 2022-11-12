@@ -1,3 +1,3 @@
-#Template lua script
+--Template lua script
 
 print "Hello World!"
